@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">LibraryManagement</string>
+    <string name="app_name">Library Management</string>
+
+    <string name="string_not_login">Not Login</string>
 </resources>
